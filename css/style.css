@@ -1,0 +1,36 @@
+h1{color: red;
+   margin: auto;
+width:500px;
+font-style: italic;
+background-color: white;
+} 
+p{
+	line-height: 2em;
+	width: 96%;
+	margin: auto;
+	background-color: white;
+	color: 
+}
+.box-1{
+	margin:auto;
+	width: 500px;
+	border: 3px;
+}
+h2{
+	color: green;
+	margin: auto;
+	font-style:italic;
+	width: 500px;
+	background-color: white;
+}
+br{
+	display:block;
+	height: 2px;
+
+}
+a{background-color: white;
+}
+.box-2{
+	background-color: white;
+	color: green;
+}
